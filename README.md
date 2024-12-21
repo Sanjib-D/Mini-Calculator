@@ -24,7 +24,7 @@ This project is a simple, modern calculator application built using **HTML**, **
 ## Project Structure
 
 ```
-calculator-app
+mini-calculator
 ├── index.html  # Main HTML file
 ├── styles.css  # CSS for custom styling
 └── script.js   # JavaScript for functionality
